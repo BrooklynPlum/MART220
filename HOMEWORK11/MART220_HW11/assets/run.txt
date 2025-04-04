@@ -1,0 +1,4 @@
+assets\images\running\MART_220_RunningAnimation1.png
+assets\images\running\MART_220_RunningAnimation2.png
+assets\images\running\MART_220_RunningAnimation3.png
+assets\images\running\MART_220_RunningAnimation4.png
